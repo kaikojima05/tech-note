@@ -18,10 +18,10 @@
 ```markdown
 仮想アドレス空間※後述
 +--------------------------------------------+
-| 0x1000 - 0x1fff: code 領域, executable     |
-| 0x2000 - 0x2fff: data 領域, read-write     |
-| 0x3000 - 0x8fff: stack 領域, read-write    |
-| 0x9000 - 0x9fff: heap 領域, read-write     |                          
+| 0x1000 - 0x1fff: code 領域, executable      |
+| 0x2000 - 0x2fff: data 領域, read-write      |
+| 0x3000 - 0x8fff: stack 領域, read-write     |
+| 0x9000 - 0x9fff: heap 領域, read-write      |                          
 +--------------------------------------------+
 ```
 
